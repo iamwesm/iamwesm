@@ -48,3 +48,7 @@ A technology enthusiast that is self-driven to learn and explore different types
 > 
 > A one year program with a 6-months intensive training, learning computer technologies, communication, and business etiquettes, followed by a 6-months of internship.
 >
+
+---
+
+| <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Skills</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Projects</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Others</a>
