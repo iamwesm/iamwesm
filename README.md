@@ -1,7 +1,7 @@
 ## Summary
 **Self-Driven | Customer Service | Adaptable**
 
-A technology enthusiast that is self-driven to learn and explore different types of technological subjects to be able to quickly adapt to various challenges and to be able to provide efficient support and technical assistance. 
+A technology enthusiast that is self-driven to learn and explore different types of technological subject to be able to quickly adapt to various challenges and provide efficient technical assistance. 
  
 
 ## Technical Skills
