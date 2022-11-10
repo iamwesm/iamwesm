@@ -50,5 +50,5 @@ A technology enthusiast that is self-driven to learn and explore different types
 >
 
 ---
-
-| <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Skills</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Projects</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Others</a>
+| <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Skills</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Related Projects</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">Others</a> | <a href="https://github.com/iamwesm/aboutwes/blob/main/RelatedSkills.md#related-skills">PDF Download</a> |
+---
